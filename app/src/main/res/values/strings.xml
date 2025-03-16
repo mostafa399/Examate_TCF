@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Examate_TCF</string>
+    <string name="home">Home</string>
+    <string name="tools">Tools</string>
+    <string name="connect">Connect</string>
+    <string name="profile">Profile</string>
+    <string name="questions">Questions</string>
+    <string name="empty">Empty</string>
+    <string name="hi">"Hi "</string>
+    <string name="study_plan">Study Plan</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="chat">Chat</string>
+    <string name="oral">Oral</string>
+    <string name="writing">Writing</string>
+    <string name="close">Skip</string>
+    <string name="next">Next</string>
+    <string name="hint">Cliquez ici pour voir par catégories avec progression</string>
+    <string name="web_client_id">1096656129695-v2qgk0clueeve3a0r6ueq82vu72n9duc.apps.googleusercontent.com</string>
+
+</resources>

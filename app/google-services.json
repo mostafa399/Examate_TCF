@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096656129695",
+    "project_id": "examate-tcf",
+    "storage_bucket": "examate-tcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096656129695:android:537a5e37c48bbcdee41caa",
+        "android_client_info": {
+          "package_name": "com.mstfahlal.examate_tcf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH92aFYWARFib2DhksxCl2TS5Q6yzAxpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
